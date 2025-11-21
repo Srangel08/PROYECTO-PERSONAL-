@@ -11,7 +11,9 @@
 # Paste this into VS Code, install dependencies, and run:
 #   streamlit run dashboard.py
 # ============================================================
-
+# pip install python-binance
+# pip install pandas
+# pip install streamlit
 # -----------------------------
 # Step 1: Import libraries
 # -----------------------------
